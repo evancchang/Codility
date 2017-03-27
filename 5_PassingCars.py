@@ -24,3 +24,6 @@ def solution(A):
     return passing
 
 print solution([0,1,0,1,1])
+# [0,1,0,1,1]
+#    ------> passing car
+#      ----> passing car
